@@ -25,6 +25,19 @@ h3 {
   color: #2e2f42;
 }
 
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
 /* ===== Header ===== */
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -97,18 +110,18 @@ h3 {
 }
 
 /* ===== Our advantages ===== */
-.advantages h3 {
+/* .advantages h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-}
+} */
 
-.advantages p {
+/* .advantages p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+} */
 
 /* ===== Our Team ===== */
 .team {
@@ -127,17 +140,17 @@ h3 {
 }
 
 .team h3 {
-  font-weight: 500;
+  /* font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; */
   text-align: center;
 }
 
 .team p {
-  font-size: 16px;
+  /* font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; */
   text-align: center;
 }
 
@@ -149,18 +162,18 @@ h3 {
   text-align: center;
 }
 
-.portfolio h3 {
+/* .portfolio h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-}
+} */
 
-.portfolio p {
+/* .portfolio p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+} */
 
 /* ===== Footer ===== */
 .page-footer {
